@@ -12,7 +12,7 @@ title                    : "Igor Eliseev"
 title_separator          : "-"
 name                     : &name "Igor Eliseev"
 description              : &description "personal description"
-url                      : https://igor-e-eliseev.github.io/eliseev.github.io # the base hostname
+url                      : https://igor-e-eliseev.github.io # the base hostname
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "igor-e-eliseev/igor-e-eliseev.github.io"
 
